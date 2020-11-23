@@ -33,8 +33,8 @@ document.write( '                      <strong>083-890-625-586<br>085-912-153-07
 document.write( '                      <strong>JABBER</strong><br>\n' );
 document.write( '                      <strong>irspulsa@chat.tigaputri.asia<br>irspulsa@jabber.ru<br>irspulsa@im.ajs.id<br></strong><br>\n' );
 document.write( '                      <strong>WhatsApp</strong><br>\n' );
-document.write( '                      <strong><a href=\"https://api.whatsapp.com/send?phone=6289513876974&text=SAL.\"\n' );
-document.write( '                          target=\"_blank\">+6289513876974</a></strong>\n' );
+document.write( '                      <strong><a href=\"https://api.whatsapp.com/send?phone=62859121530712&text=SAL.\"\n' );
+document.write( '                          target=\"_blank\">+62859121530712</a></strong>\n' );
 document.write( '                    </div>\n' );
 document.write( '                  </div>\n' );
 document.write( '\n' );
