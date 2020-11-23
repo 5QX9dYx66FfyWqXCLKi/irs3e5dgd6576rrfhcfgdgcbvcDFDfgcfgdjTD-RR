@@ -9,7 +9,7 @@ document.write('                                        <h4 class=\"bg-primary t
 document.write('                                        <div class=\"textwidget custom-html-widget\">\n');
 document.write('                                            <div align=\"center\">Phone : <strong>085642100966</strong><br><br><strong>CS\n');
 document.write('                                                    Transaksi & Deposit</strong><br><a\n');
-document.write('                                                    href=\"tg://resolve?domain=otopulsa_admx\"><img\n');
+document.write('                                                    href=\"tg://resolve?domain=csbersama\"><img\n');
 document.write('                                                        alt=\"cs otopulsa pulsa murah\" src=\"./img/scr-img/telegram.webp\"\n');
 document.write('                                                        width=\"125\" height=\"37\"></a>\n');
 document.write('                                                <br>\n');
