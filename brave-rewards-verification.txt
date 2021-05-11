@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: irspulsa.com
+Token: 2558400eeebf7611f921c08de3939981b0a7585a4ab29301122165640bcbd245
