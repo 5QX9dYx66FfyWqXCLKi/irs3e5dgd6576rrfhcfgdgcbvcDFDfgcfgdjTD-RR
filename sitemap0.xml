@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://irspulsa.com</loc>
+    <loc>https://irspulsa.com/index.html</loc>
     <lastmod>2023-11-04</lastmod>
   </url>
   <url>
@@ -10,6 +10,22 @@
   </url>
   <url>
     <loc>https://irspulsa.com/berita.html</loc>
+    <lastmod>2023-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://irspulsa.com/seting-android.html</loc>
+    <lastmod>2023-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://irspulsa.com/registrasi.html</loc>
+    <lastmod>2023-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://irspulsa.com/privacypolicy.html</loc>
+    <lastmod>2023-11-04</lastmod>
+  </url>
+  <url>
+    <loc>https://irspulsa.com/master blog.html</loc>
     <lastmod>2023-11-04</lastmod>
   </url>
 </urlset>
