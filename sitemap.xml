@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
+		<loc>https://irspulsa.com/sitemap0.xml</loc>
+	</sitemap>
+	<sitemap>
 		<loc>https://irspulsa.com/sitemap1.xml</loc>
 	</sitemap>
 	<sitemap>
@@ -14,6 +17,21 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://irspulsa.com/sitemap5.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://irspulsa.com/sitemap6.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://irspulsa.com/sitemap7.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://irspulsa.com/sitemap8.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://irspulsa.com/sitemap9.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://irspulsa.com/sitemap10.xml</loc>
 	</sitemap>
 	
 	
